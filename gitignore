@@ -1,0 +1,16 @@
+.idea
+vendor/
+.vscode
+.DS_STORE
+
+# do not commit sensitive information to git
+#.env*
+!.env.example
+
+# dependencies
+node_modules/
+
+# dev tools
+.eslintcache
+.nyc_output
+coverage

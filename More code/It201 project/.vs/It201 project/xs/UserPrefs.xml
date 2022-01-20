@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{874B7B86-8EC4-F1D6-8F9E-66E93497FD58}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Week4/ClickPositionManager_Sprint02.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Week4/ClickPositionManager_Sprint02.cs" Line="33" Column="42" />
+      <File FileName="Assets/Scripts/Week4/Clock01.cs" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="024d5d2c-ce9e-43f5-81e7-5447439384a7" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
