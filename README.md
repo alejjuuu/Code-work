@@ -1,2 +1,3 @@
 # Python-Code
-Personal and school python code
+Personal and school code
+
