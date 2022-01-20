@@ -4,7 +4,7 @@ vendor/
 .DS_STORE
 
 # do not commit sensitive information to git
-#.env*
+.env*
 !.env.example
 
 # dependencies
