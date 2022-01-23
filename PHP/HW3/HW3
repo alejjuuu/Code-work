@@ -33,41 +33,6 @@
     </script>
     <style>
         /* TODO: make edits here */
-<<<<<<< HEAD:IT202-Heroku/public_html/HW3/HW3
-        /*tick-mark{
-            position:relative;
-            display: inline-block;
-            width:30px;
-            height:30px;
-          }*/
-
-   
-
-
-        nav ul {
-            list-style-type: none;
-            margin: 0;
-            padding: 0;
-            overflow: hidden;
-            background-color: #333;
-        }
-
-        li {
-            float: left;
-        }
-
-        nav ul li {
-            display: inline-block;
-            background-color: black;
-            overflow: auto;
-            white-space: nowrap;
-        }
-
-
-        nav ul li a {
-
-            display: inline-block;
-=======
 
 
 
@@ -81,7 +46,6 @@
         nav ul li a {
 
             display: inline-block;
->>>>>>> 20c2eb1c9432844151c3f69eed6dbe9e61efc521:public_html/HW3/hw3.html
             color: white;
             text-align: center;
             padding: 14px;
