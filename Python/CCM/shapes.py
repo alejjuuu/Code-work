@@ -1,0 +1,65 @@
+import turtle
+window = turtle.Screen()
+window.bgcolor("burlywood")
+bob = turtle.Turtle()
+bob.speed(3)
+
+# rectangle
+bob.color("red")
+bob.begin_fill()
+bob.forward(50)
+bob.right(45)
+bob.forward(50)
+bob.right(45)
+bob.forward(50)
+bob.right(45)
+bob.forward(50)
+bob.right(45)
+bob.forward(50)
+bob.right(45)
+bob.forward(50)
+bob.right(45)
+bob.forward(50)
+bob.right(45)
+bob.forward(50)
+bob.right(45)
+bob.forward(50)
+bob.end_fill()
+
+bob.penup()
+bob.right(90)
+bob.forward(200)
+bob.left(90)
+bob.pendown()
+
+#triangle
+bob.color("purple")
+bob.begin_fill()
+bob.forward(150)
+bob.right(120)
+bob.forward(150)
+bob.right(120)
+bob.forward(150)
+bob.end_fill()
+
+bob.penup()
+bob.left(60)
+bob.forward(200)
+bob.pendown()
+
+#third
+bob.color("black")
+bob.begin_fill()
+bob.left(90)
+bob.left(45)
+bob.forward(100)
+bob.right(90)
+bob.forward(100)
+bob.right(90)
+bob.forward(100)
+bob.right(90)
+bob.forward(100)
+bob.end_fill()
+
+#left(), right(),forward
+

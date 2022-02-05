@@ -1,0 +1,5 @@
+mealcost = eval(input("What was the meal cost?"))
+aftertax =(mealcost * 0.7)
+aftertip =(mealcost * 0.18)
+print ("The meal cost after tax and tip is:")
+print (mealcost + aftertax + aftertip)
