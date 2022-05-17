@@ -1,12 +1,11 @@
-package Random;
+package others;
 
 import java.util.Random;
 import java.util.Scanner;
 
-public class RandomProject {
+public class RandomGuess {
 
    public static void main(String[] args) {
-
       int answer, guess;
       int MAX = 10;
       int count = 1;
